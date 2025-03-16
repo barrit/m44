@@ -1,0 +1,111 @@
+baseURL = 'https://m44.be/'
+languageCode = 'en-us'
+title = 'M44'
+theme = "autophugo"
+
+[taxonomies]
+    # tag = "tags"
+    category = "categories"
+    location = "locations"
+
+[services]
+    [services.googleAnalytics]
+        #ID = 'G-MEASUREMENT_ID'
+[params]
+    # Meta
+    description = "My photo albums"
+    keywords = "photogallery, photoblog, astrophotography"
+    thumb_width = 720
+    thumb_quality = 70
+    full_width = 1920
+    full_quality = 90
+    column_count = 2
+    breadcrumb_use_title = true
+    filename_as_phototitle = true
+    images_downloadable = true
+    images_downloadable_use_orig = false
+    taxonomies_links = true
+
+    [params.author]
+    name = "Bart Dupon"
+    email = ""
+
+    # Headerbar links
+    # Do not put too many links here,
+    # it will break mobile appearance
+
+    [[params.header.links]]
+    name = "About"
+    url = "#footer"
+    icon = "fa-info-circle"
+
+    # Footer panel
+
+    [params.footer.paragraph]
+    headline = "About"
+    text = "No tracking, no cookies, no socials."
+
+    # [params.footer.social]
+    # headline = "Follow me"
+
+    # [[params.footer.social.links]]
+    # label = "Twitter"
+    # url = "#"
+    # icon = "fa-twitter"
+
+    # [[params.footer.social.links]]
+    # label = "Facebook"
+    # url = "#"
+    # icon = "fa-facebook"
+
+    # [[params.footer.social.links]]
+    # label = "Instagram"
+    # url = "#"
+    # icon = "fa-instagram"
+
+    # [[params.footer.social.links]]
+    # label = "Github"
+    # url = "#"
+    # icon = "fa-github"
+
+    # [[params.footer.social.links]]
+    # label = "LinkedIn"
+    # url = "#"
+    # icon = "fa-linkedin"
+
+    # Contact form
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your integration endpoint address under 'formspreeID' below
+    # - create a formspree account and a simple form 
+    # - then get the integration endpoint generated to you form
+    # - you're done. Happy mailing!
+
+    [params.footer.contact]
+    hide = true # Set this to true if you don't want to have a contact form on your site
+    # formspreeID = "myuniqueID" # Getting value from Formspree integration endpoint (eg. https://formspree.io/f/myuniqueID)
+    # headline = "Get in touch"
+    # buttonText = "Send"
+    # resetText = "Reset"
+
+    # 'warning' defines error messages for invalid inputs
+    # [params.footer.contact.name]
+    # text = "Name *"
+    # warning = "Please, enter your name"
+
+    # [params.footer.contact.email]
+    # text = "Email *"
+    # warning = "Please, enter your email."
+
+    # [params.footer.contact.message]
+    # text = "Message *"
+    # warning = "Please, enter your message"
+
+    # Copyright
+    [params.footer.copyright]
+    name = "bdu 2019-2025"

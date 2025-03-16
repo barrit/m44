@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M44</title>
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/styles.css">
+    </head>
+<body>
+    <div class="image-container" onclick="toggleZoom()">
+        <img src="images/m44.jpg" alt="M44" id="zoomableImage">
+    </div>
+    <div class="footer">
+        <h1><strong>M44 - The Beehive Cluster - <A href="/ap">more</A></strong></h1>
+    </div>
+    <script>
+        function toggleZoom() {
+            const image = document.getElementById('zoomableImage');
+            image.classList.toggle('zoomed');
+        }
+    </script>
+</body>
+</html>
