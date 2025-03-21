@@ -13,6 +13,14 @@ resources:
     weight: 30
     phototitle: Jupiter eclipsed
     description: 24/10/2024 - Io casting its shadow over Jupiter 
+  - src: /ap/solarsystem/2022-05-12-Mare-Crisium.jpg
+    locations:
+      - Schaarbeek
+    categories:
+      - Moon
+    phototitle: Handle on Spica
+    description: 12/05/2025 - Mare Crisium 
+    weight: 50
   - src: /ap/solarsystem/2024-06-16-Golden-Handle-on-Spica.jpg
     locations:
       - Schaarbeek
