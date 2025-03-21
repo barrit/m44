@@ -5,6 +5,22 @@ weight: 0
 albumthumb: /ap/deepsky/2023-09-07-trunk.jpg
 draft: false
 resources:
+  - src: /ap/deepsky/2025-03-10-m82-starless.jpg
+    locations:
+      - Schaarbeek
+    categories:
+      - Deep Sky
+    description: 10/03/2025 - The Cigar Galaxy Nebula
+    phototitle: Cigar
+    weight: 45
+  - src: /ap/deepsky/2025-03-03-m97.jpg
+    locations:
+      - Schaarbeek
+    categories:
+      - Deep Sky
+    description: 03/03/2025 - The Owl Nebula
+    phototitle: Owl
+    weight: 50
   - src: /ap/deepsky/2023-09-07-trunk.jpg
     locations:
       - Schaarbeek
