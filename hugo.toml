@@ -43,8 +43,8 @@ theme = "autophugo"
 
     [params.footer.paragraph]
     headline = "About"
-    text = "No tracking, no cookies, no socials."
-
+    text = ""
+    
     # [params.footer.social]
     # headline = "Follow me"
 
