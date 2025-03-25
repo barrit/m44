@@ -21,6 +21,14 @@ resources:
     description: 03/03/2025 - The Owl Nebula
     phototitle: Owl
     weight: 50
+  - src: /ap/deepsky/2024-05-10-m51-whirlpool.jpg
+    locations:
+      - Schaarbeek
+    categories:
+      - Deep Sky
+    description: 10/05/2024 - The Whirlpool Galaxy, 31 million lightyears away
+    phototitle: Whirlpool
+    weight: 80
   - src: /ap/deepsky/2023-09-07-trunk.jpg
     locations:
       - Schaarbeek
