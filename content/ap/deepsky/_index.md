@@ -5,6 +5,14 @@ weight: 0
 albumthumb: /ap/deepsky/2023-09-07-trunk.jpg
 draft: false
 resources:
+  - src: /ap/deepsky/2025-03-27-triplets-starless.jpg
+    locations:
+      - Schaarbeek
+    categories:
+      - Deep Sky
+    description: 27/03/2025 - The Leo Triplets, stars removed
+    phototitle: Triplets in Leo
+    weight: 44
   - src: /ap/deepsky/2025-03-10-m82-starless.jpg
     locations:
       - Schaarbeek
