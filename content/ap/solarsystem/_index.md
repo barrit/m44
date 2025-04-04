@@ -5,6 +5,14 @@ weight: 1
 albumthumb: /ap/solarsystem/2024-10-24-jupiter-io.jpg
 draft: false
 resources:
+  - src: /ap/solarsystem/2025-04-01-Moon-Slice.jpg
+    locations:
+      - Schaarbeek
+    categories:
+      - Moon
+    weight: 97
+    phototitle: Moon Slice
+    description: 01/04/2025 - 2 days in the cycle 
   - src: /ap/solarsystem/2024-10-24-jupiter-io.jpg
     locations:
       - Schaarbeek
