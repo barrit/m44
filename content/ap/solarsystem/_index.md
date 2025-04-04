@@ -42,7 +42,7 @@ resources:
       - Schaarbeek
     categories:
       - Moon
-    phototitle: Handle on Spica
+    phototitle: Mare Crisium
     description: 12/05/2025 - Mare Crisium 
     weight: 140
   - src: /ap/solarsystem/2022-03-10-moon-50.jpg
