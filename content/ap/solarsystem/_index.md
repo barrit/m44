@@ -61,5 +61,13 @@ resources:
     phototitle: Mineral
     description: 11/02/2022 - Our Moon, carefully boosted saturation to reveal its mineral properties.
     weight: 160
+  - src: /ap/solarsystem/2025-10-07-cloudy-super-moon.jpg
+    locations:
+      - Schaarbeek
+    categories:
+      - Moon
+    phototitle: Super Cloudy
+    description: 07/10/2025 - Full moon in the clouds.
+    weight: 170
 description: 
 ---
