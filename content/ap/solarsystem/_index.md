@@ -5,6 +5,14 @@ weight: 1
 albumthumb: /ap/solarsystem/2024-10-24-jupiter-io.jpg
 draft: false
 resources:
+  - src: /ap/solarsystem/2025-12-04-Full-Moon.jpg
+    locations:
+      - Schaarbeek
+    categories:
+      - Moon
+    weight: 97
+    phototitle: Full Moon
+    description: 04/12/2025 - Hi-res, zoom in and explore 
   - src: /ap/solarsystem/2025-04-01-Moon-Slice.jpg
     locations:
       - Schaarbeek
